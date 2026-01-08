@@ -10,7 +10,7 @@ I'm a Computer Science student and an aspiring Full-Stack Developer who enjoys b
 
 ---
 
-<div align="center">
+<div >
 
 ## 💻 Tech Stack
 
